@@ -1,5 +1,5 @@
 import React from 'react'
-import Image from 'next/Image';
+import Image from 'next/image';
 
 function MediumCard(props) {
   const {img,title} = props;

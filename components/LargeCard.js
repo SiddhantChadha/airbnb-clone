@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import { imageConfigDefault } from 'next/dist/shared/lib/image-config'
+
 
 function LargeCard(props) {
   const {img,title,description,buttonText} = props;
